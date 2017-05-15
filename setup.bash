@@ -1,4 +1,5 @@
 #!/bin/bash/ -xve
+#Written by 61eye
 
 exec 2> /tmp/setup.log
 
