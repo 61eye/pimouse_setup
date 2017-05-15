@@ -1,5 +1,5 @@
 #!/bin/bash/ -xve
-#Written by himeka
+#Written by Himeka
 
 exec 2> /tmp/setup.log
 
@@ -10,4 +10,3 @@ sleep 1
 chmod 666 /dev/rt*
 
 echo 0 > /dev/rtmotoren0
-
